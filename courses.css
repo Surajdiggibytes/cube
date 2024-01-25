@@ -1,0 +1,50 @@
+
+.body{
+  margin-right: 40%;
+}
+  .nav{
+  box-shadow: 0px 12px 10px rgba(0 0 0 0.2);
+  background-color: aliceblue;
+  position: sticky;
+}
+
+#navbarNav1{
+position: fixed;
+z-index: 1000;
+}
+
+.nav-item{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  margin-left: 30px;
+}
+
+.nav-link{
+  margin-left: 8px;
+  color: black;
+}
+
+.logo{
+  margin-left: 10%;
+}
+
+.courseslist{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+}
+
+.card{
+margin-left: 8%;
+
+}
+
+h5{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+
+}
+
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+}

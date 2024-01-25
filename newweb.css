@@ -1,0 +1,96 @@
+  
+      .nav{
+          box-shadow: 0px 12px 10px rgba(0 0 0 0.2);
+          background-color: aliceblue;
+          position: sticky;
+      }
+
+      #navbarNav1{
+        position: fixed;
+        z-index: 1000;
+    }
+
+      .nav-item{
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          color: black;
+          margin-left: 30px;
+      }
+
+      .nav-link{
+          margin-left: 8px;
+          color: black;
+      }
+
+      .logo{
+          margin-left: 10%;
+      }
+
+      .jumbotron{
+          display: inline-flex;
+          background-color: white;
+      }
+
+      .jumbotron h1{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 190%;
+        color: black;
+
+      }
+
+      .jumbotron h4{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: small;
+        color: black;
+      }
+      .container{
+          background-color: white;
+          border: 15px;
+      }
+
+      .container h1{
+          margin-top: 30%;
+          margin-left: 25%;
+          color: blue;
+          font-size:180%;
+      }
+
+      .container h4{
+          margin-left: 40%;
+          font-size: 100%;
+      }
+
+      .courses{
+          display: inline-flex;
+      }
+
+      .card{
+          margin: 5%;
+      }
+
+      .card:hover{
+          cursor: pointer;
+          width: 50%;
+      }
+
+      .jumbotron{
+        border-radius: 10%;
+      }
+
+      .jumbotron h1{
+        margin-top: 10%;
+      }
+
+      h4{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: smaller;
+        color: blueviolet;
+      }
+
+      .container{
+        border-radius: 8%;
+      }
+
+      .container h4{
+        font-size: smaller;
+
+      }
